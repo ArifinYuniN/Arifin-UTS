@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>Anime Black Clover mengisahkan tentang seorang anak laki-laki bernama Asta yang lahir
+              tanpa kekuatan sihir, suatu fenomena yang tidak normal di dunia tempatnya tinggal.
+              Bersama dengan teman-temannya dari Banteng hitam, dia bercita-cita untuk menjadi
+              Kaisar sihir.</item>
+        <item>Anime One Piece menceritakan tentang petualangan seorang anak bernama Monkey D. Luffy
+              yang bercita-cita menjadi raja bajak laut dan menemukan "One Piece" setelah
+              terinspirasi oleh Shanks. Sekitar 22 tahun sebelum cerita dimulai, seorang bajak laut
+              bernama Gol D. Roger, atau lebih dikenal sebagai raja bajak laut dieksekusi mati
+              di depan publik. Tepat sebelum kematiannya, ia mengumumkan kepada orang banyak tentang
+              harta miliknya, One Piece, yang diklaim sebagai harta terbesar yang pernah ada.</item>
+        <item>Anime Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja
+              yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk
+              mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya.</item>
+        <item>Anime Spy x Family mengisahkan tentang agen mata-mata terampil bernama sandi Twillight
+              yang menjalankan Operasi Strix, yakni misi penting terkait perdamaian antarnegara
+              mencakup Westalis di barat dan Ostania di timur.</item>
+        <item>Anime Jujutsu Kaisen mengisahkan tentang kehidupan Yuuji Itadori, seorang pelajar SMA
+              yang ternyata memiliki kekuatan fisik luar biasa. Pada awalnya, dia menjalani
+              hari-hari sebagai anak SMA biasa, tetapi kemudian hidupnya berupah pada saat dia harus
+              membantu teman-temannya yang menghadapi bahaya karena sebuah kutukan.</item>
+        // Menampilkan informasi lanjutan pada halaman 1
+
+    </string-array>
+</resources>
